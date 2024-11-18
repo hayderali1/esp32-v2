@@ -29,6 +29,6 @@ Weight is calculated as:
 
 Weight = 1 / Difference
 
-This means:
+This means
 If the RSSI difference is small, the weight is large (this reference point is more relevant).
 If the RSSI difference is large, the weight is small.

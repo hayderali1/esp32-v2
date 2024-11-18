@@ -14,3 +14,21 @@ Fingerprint Database:
   
 2-Input RSSI:
 When you receive an RSSI value (ex: -64), the system tries to estimate the position of the device that sent this RSSI by comparing it to the RSSI values in the fingerprint database.
+
+3-Find How Close Each Reference Point Is:
+
+For each reference point in the database, calculate how close the input RSSI is to the RSSI in the database.
+The difference is calculated as:
+
+Difference = |Input RSSI - Reference RSSI|
+
+4-Assign Weight Based on Closeness:
+
+The smaller the difference, the higher the weight.
+Weight is calculated as:
+
+Weight = 1 / Difference
+
+This means:
+If the RSSI difference is small, the weight is large (this reference point is more relevant).
+If the RSSI difference is large, the weight is small.

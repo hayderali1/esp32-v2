@@ -58,28 +58,28 @@ Step-by-Step Calculation:
 1-Find the Difference:
 
 
--| -64 - (-60) | = 4
--| -64 - (-62) | = 2
--| -64 - (-65) | = 1
--| -64 - (-67) | = 3
--| -64 - (-70) | = 6
+- | -64 - (-60) | = 4
+- | -64 - (-62) | = 2
+- | -64 - (-65) | = 1
+- | -64 - (-67) | = 3
+- | -64 - (-70) | = 6
 
 2-Calculate Weights:
 
-Weight for (50, 100) = 1 / 4 = 0.25
-Weight for (100, 150) = 1 / 2 = 0.5
-Weight for (150, 200) = 1 / 1 = 1
-Weight for (200, 250) = 1 / 3 ≈ 0.33
-Weight for (250, 300) = 1 / 6 ≈ 0.17
+- Weight for (50, 100) = 1 / 4 = 0.25
+- Weight for (100, 150) = 1 / 2 = 0.5
+- Weight for (150, 200) = 1 / 1 = 1
+- Weight for (200, 250) = 1 / 3 ≈ 0.33
+- Weight for (250, 300) = 1 / 6 ≈ 0.17
 Normalize Weights (Optional):
 
-Total Weight = 0.25 + 0.5 + 1 + 0.33 + 0.17 = 2.25
-Normalize:
-Normalized Weight for (50, 100) = 0.25 / 2.25 ≈ 0.11
-Normalized Weight for (100, 150) = 0.5 / 2.25 ≈ 0.22
-Normalized Weight for (150, 200) = 1 / 2.25 ≈ 0.44
-Normalized Weight for (200, 250) = 0.33 / 2.25 ≈ 0.15
-Normalized Weight for (250, 300) = 0.17 / 2.25 ≈ 0.08
+- Total Weight = 0.25 + 0.5 + 1 + 0.33 + 0.17 = 2.25
+- Normalize:
+- Normalized Weight for (50, 100) = 0.25 / 2.25 ≈ 0.11
+- Normalized Weight for (100, 150) = 0.5 / 2.25 ≈ 0.22
+- Normalized Weight for (150, 200) = 1 / 2.25 ≈ 0.44
+- Normalized Weight for (200, 250) = 0.33 / 2.25 ≈ 0.15
+- Normalized Weight for (250, 300) = 0.17 / 2.25 ≈ 0.08
 
 3-Calculate Weighted Position:
 

@@ -43,7 +43,7 @@ Weighted Y = (Weight1 * Y1 + Weight2 * Y2 + ...) / (Sum of Weights)
 Result:
 The weighted average gives the estimated position of the mobile device on the canvas.
 
-##Example Calculation
+## Example Calculation
 Input:
 RSSI received from the mobile device: -64
 Reference Points:

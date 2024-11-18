@@ -32,3 +32,16 @@ Weight = 1 / Difference
 This means
 If the RSSI difference is small, the weight is large (this reference point is more relevant).
 If the RSSI difference is large, the weight is small.
+
+5-Combine the Positions Using the Weights:
+
+Use the weights to calculate the average position.
+For each reference point, its contribution to the position is based on its weight:
+Weighted X = (Weight1 * X1 + Weight2 * X2 + ...) / (Sum of Weights)
+Weighted Y = (Weight1 * Y1 + Weight2 * Y2 + ...) / (Sum of Weights)
+
+Result:
+The weighted average gives the estimated position of the mobile device on the canvas.
+
+
+

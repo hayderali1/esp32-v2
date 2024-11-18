@@ -37,7 +37,9 @@ If the RSSI difference is large, the weight is small.
 
 Use the weights to calculate the average position.
 For each reference point, its contribution to the position is based on its weight:
+
 Weighted X = (Weight1 * X1 + Weight2 * X2 + ...) / (Sum of Weights)
+
 Weighted Y = (Weight1 * Y1 + Weight2 * Y2 + ...) / (Sum of Weights)
 
 Result:

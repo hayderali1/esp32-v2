@@ -48,11 +48,11 @@ Input:
 RSSI received from the mobile device: -64
 Reference Points:
 
-(50, 100) with RSSI = -60
-(100, 150) with RSSI = -62
-(150, 200) with RSSI = -65
-(200, 250) with RSSI = -67
-(250, 300) with RSSI = -70
+- (50, 100) with RSSI = -60
+- (100, 150) with RSSI = -62
+- (150, 200) with RSSI = -65
+- (200, 250) with RSSI = -67
+- (250, 300) with RSSI = -70
 
 Step-by-Step Calculation:
 1-Find the Difference:

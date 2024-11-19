@@ -48,6 +48,7 @@ The weighted average gives the estimated position of the mobile device on the ca
 ## Example Calculation
 Input:
 RSSI received from the mobile device: -64
+
 Reference Points:
 
 - (50, 100) with RSSI = -60

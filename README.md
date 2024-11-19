@@ -58,6 +58,7 @@ Reference Points:
 - (250, 300) with RSSI = -70
 
 Step-by-Step Calculation:
+
 1-Find the Difference:
 
 

@@ -61,7 +61,6 @@ Step-by-Step Calculation:
 
 1-Find the Difference:
 
-
 - | -64 - (-60) | = 4
 - | -64 - (-62) | = 2
 - | -64 - (-65) | = 1

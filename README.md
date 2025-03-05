@@ -1,4 +1,4 @@
-# fingerprint without filtering
+# fingerprint without filtering:
 
 ## How Position is Calculated (Simple Steps)
 

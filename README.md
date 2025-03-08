@@ -1,6 +1,5 @@
 # fingerprint without filtering:
 
-
 ## How Position is Calculated (Simple Steps)
 
 1-Reference Points (Fingerprint Database):
